@@ -59,6 +59,7 @@ hash: true
   });
 </script>
 
+
 :::
 
 ::: {.column width="50%"}
@@ -128,7 +129,6 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
-
 ---
 # Bibliography
 <div id="refs"></div>
